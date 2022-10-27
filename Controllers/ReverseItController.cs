@@ -21,7 +21,7 @@ public class ReverseItController : ControllerBase
         {
             text = text + numOrString[i];
         }
-        return $"Your Word/Number: {numOrString} |||| The Reverse: {text}";
+        return $"Your Word/Number: {numOrString} \n The Reverse: {text}";
     }
 
 }
