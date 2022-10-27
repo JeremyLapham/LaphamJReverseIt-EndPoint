@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AD5aqw79IQjErRBi45N0VZel5Oc2jSkuKoqpcMFldlshcuu6lAcFKscJXFOXhdh6w5MEOX5hz4jca18aUxmn7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\starf\\OneDrive\\Documents\\Code Stack 22-23\\Level1\\Homework Level1\\First_9Challenges-Endpoints\\LaphamJReverseIt-EndPoint\\LaphamJReverseIt-EndPoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\starf\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\starf\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\starf\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\starf\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\starf\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\starf\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
